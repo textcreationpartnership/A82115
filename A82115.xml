@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Armie concerning Lieut. Collonel John Lilburn; and their resolution to establish the people in all their just rights, liberties, priviledges, and freedomes. With the remonstrance, and petition, of the officers and souldiers, citizens and countrey-men, rich and poor; with all the distressed and oppressed people of England; to the Parliament. Together with their propositions and desires; and a gallant way propounded, for the taking off all taxes, a time prefixed; the uniting of all parties; the establishing of peace; and making trade free.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82115</idno>
+            <idno type="STC">Wing D629</idno>
+            <idno type="STC">Thomason E654_11</idno>
+            <idno type="STC">ESTC R205928</idno>
+            <idno type="EEBO-CITATION">99865151</idno>
+            <idno type="PROQUEST">99865151</idno>
+            <idno type="VID">117388</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117388)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E654[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Armie concerning Lieut. Collonel John Lilburn; and their resolution to establish the people in all their just rights, liberties, priviledges, and freedomes. With the remonstrance, and petition, of the officers and souldiers, citizens and countrey-men, rich and poor; with all the distressed and oppressed people of England; to the Parliament. Together with their propositions and desires; and a gallant way propounded, for the taking off all taxes, a time prefixed; the uniting of all parties; the establishing of peace; and making trade free.</title>
+                  <author>England and Wales. Army. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G. Horton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: The "2" in the imprint date has been crossed out and date altered to 1651; "Feb: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657.</term>
+               <term>Great Britain --  Politics and government, --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117388:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE ARMIE CONCERNING Lieut. Collonel JOHN LILBURN; <hi>AND</hi> Their Reſolution to eſtabliſh the People in all their juſt Rights, Liberties, Priviledges, and Freedomes.</p>
+            <p>With the Remonſtrance, and Petition, of the Officers and Souldiers, Citizens and Coun<g ref="char:EOLhyphen"/>trey-men, Rich and Poor; With all the diſtreſ<g ref="char:EOLhyphen"/>ſed and oppreſſed People of <hi>England; To the Parliament.</hi>
+            </p>
+            <p>Together with their Propoſitions and De<g ref="char:EOLhyphen"/>ſires; And a gallant way propounded, for the taking off all Taxes, a time prefixed; the uniting of all Parties; the eſtabliſhing of Peace; and making Trade free.</p>
+            <p>Imprinted at <hi>London,</hi> for G. HORTON, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:117388:2"/>
+            <pb n="3" facs="tcp:117388:2"/>
+            <head>A DECLARATION OF THE ARMY</head>
+            <head type="sub">To the Parliament of England; concern<g ref="char:EOLhyphen"/>ing Lieut. Col. John Lilburn; And the humble Petition of the Citizens of London, the free-born Denizens in the reſpective Counties, Poor and Rich; and all ſorts, with all the Diſtreſſed and Oppreſſed People of England.</head>
+            <p>THe Officers and Souldiers in the Army, having recei<g ref="char:EOLhyphen"/>ved Advertiſements of the heavy Cenſure which L. Col. <hi>Lilburn</hi> (at preſent) lies under, a Councel was called, and after a large Diſpute, many declared their ardent affe<g ref="char:EOLhyphen"/>ction, <hi>To ſtand and all with ſo great and faithful an Aſſertor of</hi> England's Liberties. Others reſolved, To ſubmit their Wills, to the Will of the Power that impoſed the Sen<g ref="char:EOLhyphen"/>tence,
+<pb n="4" facs="tcp:117388:3"/>declaring, <hi>That they will leave no means nor dangers un<g ref="char:EOLhyphen"/>attempted,</hi> to eſtabliſh the People in the fulneſs of their Li<g ref="char:EOLhyphen"/>berties and Freedoms. Which cordial Reſult, re-minds me of that moſt excellent and emphatical Petition of the free<g ref="char:EOLhyphen"/>men of <hi>England,</hi> to the Parliament; A Copy whereof fol<g ref="char:EOLhyphen"/>loweth:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The humble Petition of Officers and Souldiers, Citizens and Coun<g ref="char:EOLhyphen"/>trey-men, Poor and Rich, and all ſorts, &amp;c.</head>
+                  <opener>SHEWETH,</opener>
+                  <p>THat it being the work of Nature, Reaſon and Chri<g ref="char:EOLhyphen"/>ſtianity, by which we ſhall be judged in the laſt Day, (<hi>Mat.</hi> 25.) And the very bottom of all pretences in all Cor<g ref="char:EOLhyphen"/>porations and Councels, <hi>To cloath the naked, feed the hungry, viſit the ſick, and relieve the oppreſſed:</hi> All former Lawes, ſta<g ref="char:EOLhyphen"/>tetes, and conſultations having been of ſmall effect hither<g ref="char:EOLhyphen"/>to: houſes of Correction being more apt to make men (from being poor) to become Vagabonds and Beggars, by taking from them the Repute of ſo much Honeſty, as not to be intruſted with employment; and conveying into them a further impudency, or deſperateneſs (as by experience is manifeſt) and many having of late years periſhed for want of Neceſſaries: The Lord having now put into your hands a preſent opportunity, of adding this great Work to all the mighty works which he hath done by you.</p>
+                  <p>May your Honours be pleaſed to grant to your Petitio<g ref="char:EOLhyphen"/>ners (all due reſpects being firſt had to your great loſſes &amp; damages, out of Delinquents Revenues) or ſo many of them as ſhall be thought ſit, and to all the poor of <hi>England,</hi> the remainder of what is due upon publike Accounts. 2 All or ſo much of the Commons, Foreſts, Chaces, &amp;c. as is due unto the Poor. 3 All Mines not wrought on at preſent, all
+<pb n="5" facs="tcp:117388:3"/>drowned lands, lands deſerted of the Sea, or the like, they agreeing for what is due to any Owner. 4 The ſole benefit of all Manufactures, Engines and Inventions either by Sea or Land, by your Petitioners brought into Uſe in <hi>England.</hi> 5 All Pariſh Collections, and concealed or abuſed Charities, with power to ſearch all Records, Wills, Church-books, &amp; books of Accounts to that purpoſe, <hi>gratis:</hi> to be as a pub<g ref="char:EOLhyphen"/>lique Treaſure of the Land, for all publique Deſigns, in one common joynt Stock.</p>
+                  <p>And ſome of your Petitioners will put in ſufficient ſe<g ref="char:EOLhyphen"/>curity; 1 To provide all neceſſaries for the Army. 2 To pay the Arrears of the Army within 5 years. 3 To take off all Taxes within one year, except Cuſtoms. 4 To pay all the debts of the publique Faith which remain due at 6. <hi>per Cent,</hi> within 10 years. 5 To ſet up a publique Banck, as in <hi>Amſterdam, Venice,</hi> and other places. And if your Honours ſhall think good, to grant the Fiſhings, Cuſtoms, and Reve<g ref="char:EOLhyphen"/>nues of the Navy, &amp;o. then your Petitioners will undertake to maintain a conſtant Navy at Sea, and to ſecure the Mer<g ref="char:EOLhyphen"/>chants at 1 <hi>per Cent,</hi> a month, for the narrow Seas. 2 To take off the Cuſtoms from unwrought Materials and Commo<g ref="char:EOLhyphen"/>dities, and Food and Ammunition imported, and lay them upon unwrought Materials and Commodities, and Food and Ammunition exported. 2 To take off all Cuſtoms from Manufactures exported, and lay them upon Manufactures imported.</p>
+                  <p>
+                     <hi>Thus may your Honours be eaſed of great Burthens; be free to other great affairs; Take away all Taxes and Groanings of the people; Reconcile all parties; Gain the love of the people; Make Trade free; Eſtabliſh the peace of the Nation; Eſtabliſh your own peace before God and Man; And bring down the bleſſings of God abundantly upon all your faithful Endeavours.</hi>
+                  </p>
+               </body>
+            </floatingText>
+         </div>
+         <div type="appeal">
+            <pb n="6" facs="tcp:117388:4"/>
+            <head>The Freemans Appeal.</head>
+            <p>As for my own part I am a free-man; yea, a free Den<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zen of England; and I have been in the field with my ſword in my hand, to adventure my life and my bloud (againſt Tyrants) for the preſerva<g ref="char:EOLhyphen"/>tion of my juſt freedom; and I do not know that ever I did an act in all my life, that disfranchiſed me of my freedom; and by vertue of my being a free<g ref="char:EOLhyphen"/>man (I conceive) I have as true a right to all the pri<g ref="char:EOLhyphen"/>viledges that do belong to a freeman as the greateſt man in England Whatſoever he be and the ground and foundation of my freedome I build upon the grand Charter of England, which is publiſhed and expreſſed in the 9 of HEN. 3. Chap. 29. which I humbly crave leave to illuſtrate as followeth, viz. That to freeman ſhall be taken or impriſoned; or be diſeiſed of his free-hold or liberties; or free Cu<g ref="char:EOLhyphen"/>ſtoms; or be out-lawed or exiled; or any wiſe de<g ref="char:EOLhyphen"/>ſtroyed: Nor we will not paſſe upon him, nor con<g ref="char:EOLhyphen"/>demn him; but by lawful Judgment of his Peers; or by the Law of the Land; we will ſell to no man; we will not deny; or defer to any man either Ju<g ref="char:EOLhyphen"/>ſtice or Right. And the priviledges contained here<g ref="char:EOLhyphen"/>in are my birth-right and inheritance; which privi<g ref="char:EOLhyphen"/>ledges
+<pb n="7" facs="tcp:117388:4"/>have been ratified and confirmed to the free people of England by the Parliament aſſembled at Weſtmidſter; and many Declarations put out a<g ref="char:EOLhyphen"/>gainſt the late King for violating of them.</p>
+            <p>And truly, I cannot chuſe but remind you, That the Law of England is the birth-right and inheri<g ref="char:EOLhyphen"/>tance of the people of England; yea of the meaneſt as well as of the richeſt: And although the Law of England be not ſo good in every particular, e<g ref="char:EOLhyphen"/>ſpecially in the adminiſtrative part of it, as I could wiſh it were; yet till I can ſee a better, I (for my part) will make much of that which we have, as the principal Earthly preſerver and ſafeguard of my life, liberty and property for it, viz. Magna Charta Chap. 29. ſaith, No free-man ſhall be taken or im<g ref="char:EOLhyphen"/>priſoned, or be diſſeiſed of his freehold or free Cu<g ref="char:EOLhyphen"/>ſtomes, or be outlawed or exiled, or any otherwiſe deſtroyed; nor paſt upon, nor condemned, but by lawful Judgment of this Peers; or by the Law of the Land; and that Juſtice and Right ſhall not be ſold denied, or deferred to any man. See Sir Edw. Cook's excellent Expoſition upon this in his 2. par. Inſtit. fol. 46, 47. &amp;c. Printed by the late forcibly diſſolved Parliament for good Law. And poſitively declared, To preſerve unto the people inviolably their fun<g ref="char:EOLhyphen"/>damental Laws and Liberties, in reference to their Lives, Eſtates, and all things appertaining thereunto.</p>
+            <pb n="8" facs="tcp:117388:5"/>
+            <p>A Charge of High-Treaſon is preparing to be exhibited againſt Mr. Ainſlow, a learned Profeſſour of the Law, and now priſoner in the Preſſe-yard at New-gate, for writing and divulging a Treaſonable Book againſt Mr. Attorney-General Prideaux, and divers other Honourable Members: His Tryal is ordered to be upon Friday the 30 of this inſtant Ja<g ref="char:EOLhyphen"/>nuary. At which time, the Articles of Impeachment are to be read; which (its believed) will produce an immediate Sentence, anſwerable to his demerits, be<g ref="char:EOLhyphen"/>ing a matter of great and incomparable conſe<g ref="char:EOLhyphen"/>quence.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
